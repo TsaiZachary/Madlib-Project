@@ -25,25 +25,25 @@ public static void main(String[] args){
   System.out.println("Today is " + month + "/" + day + "/" + year + "-" + name); 
   System.out.print("It was a ______, cold november day.");
   String adjective1 = input.nextLine();
-  input.nextLine();
+ 
   System.out.print("I woke up to the ________ smell of turkey roasting in the living room downstairs.");
   String smell = input.nextLine();
-  input.nextLine();
+
   System.out.print("I _________ down the stairs to see if I could help make the dinner.");
   String pastTenseVerb = input.nextLine();
-  input.nextLine();
+  
   System.out.print("My mom said 'we need fresh _______ for the salad.");
   String food = input.nextLine();
-  input.nextLine();
+
   System.out.print("So I went and brought a tray full of _____.");
   String juice = input.nextLine();
-  input.nextLine();
+  
   System.out.print("I couldn't believe my ______ when I got there!");
   String body=input.nextLine();
-  input.nextLine();
+  
   System.out.print("There were __________ under the christmas trees!");
   String item2 = input.nextLine();
-  input.nextLine();
+ 
   System.out.print("It was a " + adjective1 + ", cold november day. I woke up to the " + smell + "of turkey roasting in the living room downstairs. I" + Verb + "down the stairs to see if I could help make the dinner.");
   
 }
